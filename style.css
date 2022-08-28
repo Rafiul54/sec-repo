@@ -3,3 +3,8 @@ h1{
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
 }
+h2{
+    color: aqua;
+    text-align: center;
+    border: 1px solid khaki;
+}
